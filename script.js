@@ -1,4 +1,4 @@
-$(funtion() {
+$(function() {
 
   // アコーディオン
   $('.faq-list-item').click(function() {
